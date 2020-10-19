@@ -4,3 +4,7 @@ servicemeshoperator
 kiali-ossm
 jaeger-product
 elasticsearch-operator
+codeready-workspaces
+serverless-operator
+eap
+
